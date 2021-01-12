@@ -16,7 +16,13 @@
             "id": 3,
             "userId": "pospay",
             "password": "123456",
-            "role": "pospay"
+            "role": "petugas-pospay"
+        },
+        {
+            "id": 4,
+            "userId": "adminpospay",
+            "password": "123456",
+            "role": "admin-pospay"
         }
     ],
     "posts": [
