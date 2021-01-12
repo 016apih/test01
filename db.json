@@ -1,4 +1,24 @@
 {
+    "user": [
+        {
+            "id": 1,
+            "userId": "ritelloket",
+            "password": "123456",
+            "role": "ritel-loket"
+        },
+        {
+            "id": 2,
+            "userId": "riteladmin",
+            "password": "123456",
+            "role": "ritel-admin"
+        },
+        {
+            "id": 3,
+            "userId": "pospay",
+            "password": "123456",
+            "role": "pospay"
+        }
+    ],
     "posts": [
         {
             "id": 1,
