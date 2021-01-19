@@ -25,13 +25,70 @@
             "role": "admin-pospay"
         }
     ],
-    "posts": [
+    "Pelanggan": [
         {
-            "id": 1,
-            "title": "hello"
+            "id": "123",
+            "nama": "Mayuga Wicaksana",
+            "noTelp": "081313131313",
+            "alamat": "Surapati Core C7, Bandung, Jawa Barat",
+        },
+        {
+            "id": "80312241741872",
+            "nama": "Mayuga",
+            "noTelp": "081313131313",
+            "alamat": "Surapati Core C7, Bandung, Jawa Barat",
+        },
+        {
+            "id": "80312241741872",
+            "nama": "Wicaksana",
+            "noTelp": "081313131313",
+            "alamat": "Surapati Core C7, Bandung, Jawa Barat",
+        },
+    ],
+    "postPaid": [
+        {
+            "id": "123",
+            "nama": "Wicaksana",
+            "tagihan": "1 Lembar",
+            "bulan": "OKT17",
+            "total": 208700
+        },
+        {
+            "id": "234",
+            "nama": "Mayuga Wicaksana",
+            "tagihan": "25 Lembar",
+            "bulan": "OKT17",
+            "total": 445380
         }
     ],
-    "profile": {
-        "name": "typicode"
-    }
+    "nonTaglist": [
+        {
+            "id": "123",
+            "nama": "Mayuga",
+            "jenis": "Migrasi Prabayar",
+            "total": 100100
+        },
+        {
+            "id": "234",
+            "nama": "Mayuga Wicaksana",
+            "jenis": "Migrasi Prabayar",
+            "total": 44380
+        }
+    ],
+    "etilang": [
+        {
+            "noDocument": 8,
+            "id": "123",
+            "nama": "Mayuga",
+            "alamat": "Bandung",
+            "kendaraan": "sepeda Motor",
+            "periode": 201911,
+            "pasal": "285(1) yo 106(3)",
+            "noPolisi": "B 3783",
+            "bBukti": "STNK",
+            "uDenda": 5000,
+            "uPerkara": 5000,
+            "uOngkor": 0
+        }
+    ]
 }
